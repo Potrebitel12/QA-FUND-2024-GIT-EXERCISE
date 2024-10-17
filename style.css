@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*
+body {
+    display: flex;
+    align-content: center;
+}
+*/
+
+form {
+    /*border: 1px solid red;*/
+    width: 70%;
+    margin: auto;
+    margin-top: 20%;
+    padding: 40px 20px;
+    text-align: center;
+    background: rgb(231, 240, 243);
+}
+
+form > * {
+    margin: 10px 0;
+}
+
+button {
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background: red;
+}
